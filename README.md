@@ -8,7 +8,7 @@
 
 
 ## 시연 연상
-[유튜브 영상]()  
+[유튜브 영상](https://youtu.be/C-8v3cg6FMU)  
 
 ## 실행 방법
 주어진 헤더파일과 소스코드 파일을 컴파일하여 실행하세요.  
@@ -22,9 +22,10 @@ user|역할|
 [@Mne-pr](https://github.com/Mne-pr)| 세부 기능 개발, 다이어그램 작성, 기능 테스트, 보고서 작성|
 
 ## 클래스 다이어그램
-![최종 클래스 다이어그램-Page-1 drawio]()
+<img width="1899" alt="image" src="https://user-images.githubusercontent.com/70826982/208419084-d7038553-3894-45d9-a934-e7dbd4987358.png">
 
 
-## 스크린샷
-![그림1]()
-![그림2]()
+
+## 스크린샷![image](https://user-images.githubusercontent.com/70826982/208419173-fed5a93c-7b0a-4295-b174-48881e43bd05.png)
+<img width="1358" alt="image" src="https://user-images.githubusercontent.com/70826982/208419224-0b7b8c85-e1d7-4984-b87a-97a3f2b6e95a.png">
+
