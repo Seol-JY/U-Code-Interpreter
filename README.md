@@ -7,7 +7,7 @@
 사용환경이나 글꼴에 따라 화면이 깨져 보일 수 있습니다.
    
      
- U-Code 문법은 다음과 같습니다.
+ U-Code 문법은 다음과 같습니다. 예시 U-Code 파일은 함께 첨부합니다.
 <img width="800" alt="스크린샷 2022-12-28 오후 2 02 18" src="https://user-images.githubusercontent.com/70826982/209760187-ff527485-b113-479b-8945-1095e993d8cd.png">
 
 ## 시연 연상
@@ -27,7 +27,7 @@ user|역할|
 
 ## 클래스 다이어그램
 <img width="1899" alt="image" src="https://user-images.githubusercontent.com/70826982/208419084-d7038553-3894-45d9-a934-e7dbd4987358.png">
-
+ 
 
 ## 스크린샷  
 ![image](https://user-images.githubusercontent.com/70826982/208419173-fed5a93c-7b0a-4295-b174-48881e43bd05.png)
