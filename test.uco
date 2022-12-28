@@ -1,0 +1,53 @@
+main       proc 12
+           sym 0 1
+           sym 1 10
+           sym 11 1
+           ldc 0
+           dup
+           str 11
+           str 0
+$$0        nop
+           lod 0
+           ldc 10
+           lt
+           fjp $$1
+           lod 11
+           ldp
+           lod 0
+           lda 1
+           call sub
+           add
+           str 11
+           lod 0
+           inc
+           str 0
+           ujp $$0
+$$1        nop 
+           ldp
+           lod 11
+           call write
+           end
+           sub
+sub        proc 2
+           sym 12 1
+           sym 13 1
+           str 13
+           str 12
+           lod 12
+           ldc 100
+           add
+           lod 12
+           lod 13
+           add
+           swp
+           sti
+           lod 12
+           lod 13
+           add
+           ldi
+           retv
+           end
+           bgn
+           ldp
+           call main
+           end
