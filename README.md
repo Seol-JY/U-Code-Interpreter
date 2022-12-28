@@ -10,7 +10,7 @@
  U-Code 문법은 다음과 같습니다. 예시 U-Code 파일은 함께 첨부합니다.
 <img width="800" alt="스크린샷 2022-12-28 오후 2 02 18" src="https://user-images.githubusercontent.com/70826982/209760187-ff527485-b113-479b-8945-1095e993d8cd.png">
 
-## 시연 연상
+## 시연 영상
 [유튜브 영상](https://youtu.be/C-8v3cg6FMU)  
 
 ## 사용 방법
